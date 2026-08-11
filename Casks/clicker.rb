@@ -1,6 +1,6 @@
 cask "clicker" do
-  version "1.4"
-  sha256 "4ff6af3509b873f4717f78b7365f825f0eeaa4edc74838e51c05afd70fce18db"
+  version "1.4.1"
+  sha256 "d8d24586bb3692b3bd2faaec29c0ecdaa4d7436ce77e481f179a5ad29a1108a1"
 
   url "https://github.com/ribren/clicker/releases/download/v#{version}/Clicker-macOS.zip"
   name "Clicker"
